@@ -6,3 +6,7 @@ star
 three
 eagle
 try
+exploration
+query
+pseudo
+ 
