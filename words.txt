@@ -9,4 +9,6 @@ try
 exploration
 query
 pseudo
- 
+cry
+pie
+sly
